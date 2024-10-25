@@ -2,7 +2,8 @@
 - 문서 작업시 한영 설정이 반대로 된 경우, 잘못입력된 텍스트를 수정하지 않고 자동으로 변환하기 위한 프로그램 (최대 약 5000자)
 
 ### 1. 동작
-![한영변환기](https://github.com/user-attachments/assets/088e7335-8d83-49db-8d13-76024fb24e7d)
+
+![한영변환기](https://github.com/user-attachments/assets/c52253de-5f9c-451d-accd-67f32d13cea1)
 
 ### 2. 사용법
 - 실행파일을 원하는 곳에 저장한다.
